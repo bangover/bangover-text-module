@@ -26,7 +26,6 @@
 		<dependency>
 			<groupId>cloud.bangover</groupId>
 			<artifactId>bangover-commons</artifactId>
-			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 

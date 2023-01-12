@@ -40,7 +40,6 @@
 		<dependency>
 			<groupId>cloud.bangover</groupId>
 			<artifactId>bangover-commons-testkit</artifactId>
-			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 
